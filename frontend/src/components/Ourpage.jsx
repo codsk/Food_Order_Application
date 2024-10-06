@@ -11,8 +11,8 @@ function Ourpage() {
             We believe in good. We launched Fresh Pan Pizza Best Excuse Awards
             on our Facebook fan page. Fans were given situations where they had
             to come up with wacky and fun excuses. The person with the best
-            excuse won the Best Excuse Badge and won Pizzeria's vouchers. Their
-            enthusiastic reponse proved that Pizzeria's Fresh Pan Pizza is the
+            excuse won the Best Excuse Badge and won Pizza's vouchers. Their
+            enthusiastic reponse proved that Pizza's Fresh Pan Pizza is the
             Tasities Pan Pizza. Ever! Ever since we launched the Tastiest Pan
             Pizza ever, people have not been able to resist the soffest,
             cheesiest, crunshiest, butteriest Domino's Fresh Pan Pizza. They
@@ -21,8 +21,8 @@ function Ourpage() {
             Fresh Pan Pizza Best Excuse Awards on our Facebook fan page. Fans
             were given situations where they had to come up with wacky and fun
             excuses. The person with the best excuse won the Best Excuse Badge
-            and won Pizzeria's vouchers. Their enthusiastic reponse proved that
-            Pizzeria's Fresh Pan Pizza is the Tasities Pan Pizza. Ever!
+            and won Pizza's vouchers. Their enthusiastic reponse proved that
+            Pizza's Fresh Pan Pizza is the Tasities Pan Pizza. Ever!
           </article>
         </section>
 
