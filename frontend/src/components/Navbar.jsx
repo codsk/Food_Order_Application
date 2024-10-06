@@ -12,7 +12,7 @@ function Navbar({ count }) {
               className="text-decoration-none navbar-brand text-light mx-2 h1 "
               to="/"
             >
-              Pizzeria
+              Pizza
             </Link>
             <Link to="/">
               <img src={image} alt="img" width="50px" />
